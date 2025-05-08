@@ -28,6 +28,7 @@
     }
 }
 @media(max-width:800px){
+    .style-switcher,
     .contact .contact-form .col-6,
     .contact .contact-info-item,
     .portfolio .portfolio-item,
